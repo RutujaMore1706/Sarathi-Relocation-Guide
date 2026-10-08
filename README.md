@@ -61,7 +61,8 @@ Building Saarthi was a journey filled with conundrums—decisions that shaped th
 ![dbt-cloud](https://img.shields.io/badge/dbt%20Cloud-FF694B?style=for-the-badge&logo=dbt&logoColor=white)
 
 ### Technical Architecture:
-![architecture-diagram](https://github.com/RutujaMore1706/Sarathi-Relocation-Guide/blob/main/sarathi-architecture-diagram.png)
+![architecture-diagram](https://github.com/RutujaMore1706/Sarathi-Relocation-Guide/blob/main/sarathi-architecture-diagram.jpg)
+![architecture-diagram](https://github.com/RutujaMore1706/Sarathi-Relocation-Guide/blob/main/sarathi-chatbot.jpg)
 
 ### Project structure:
 
